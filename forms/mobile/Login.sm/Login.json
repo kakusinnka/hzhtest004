@@ -33,7 +33,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "FlexContainerLogin"
+        "FlexContainerBgImage",
+        "FlexContainerBgShadow"
     ],
     "containerweight": 100,
     "controllerInfo": {

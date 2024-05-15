@@ -38,7 +38,7 @@
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "FlexContainerLogin",
+    "id": "FlexContainerBgImage",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
