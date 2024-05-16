@@ -1,12 +1,16 @@
 {
     "DNDConfig": null,
+    "_bottom_": {
+        "type": "number",
+        "value": "1"
+    },
     "_height_": {
         "type": "string",
-        "value": "33.33%"
+        "value": "1dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "12dp"
     },
     "_margin_": [
         0,
@@ -22,33 +26,26 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s5a4e218a6114d2fbacce18d3273dada",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
+    "_right_": {
+        "type": "number",
+        "value": "12"
     },
-    "_width_": {
-        "type": "string",
-        "value": "100%"
-    },
+    "_skin_": "sc126ffed2c042268feca686fbeacf0e",
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "TextFieldUserName",
-        "FlexContainerUserNameLine"
-    ],
+    "children": [],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "FlexContaineUserName",
+    "id": "FlexContainerUserNameLine",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "d3293a4c469e4b02adff56f390b3888c",
+    "kuid": "j0cb097994f843ce9ec10be611d237fc",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "FlexContainerUserNamePw",
+    "parent": "FlexContaineUserName",
     "pf": "Login",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
