@@ -33,7 +33,9 @@
     },
     "allboxes": [],
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "ButtonLogin"
+    ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
