@@ -253,6 +253,7 @@
     "category": "app",
     "chat": "false",
     "cloud_account_guid": "f2cf187c-63fc-4f80-9200-215566ea867f",
+    "cloud_env_GUID": "a05024c8-c980-47c0-856d-33c8008fd91f",
     "codeGeneration": "false",
     "contacts": "false",
     "cordovaModified": false,
@@ -640,9 +641,11 @@
     "read_device_identifying_information": "false",
     "referenceWidth": "375",
     "registerForDeepLink": {
+        "androidwear": false,
         "desktop": false,
         "mobile": false,
-        "tablet": false
+        "tablet": false,
+        "watch": false
     },
     "remoteSystem": "false",
     "removableStorage": "false",
@@ -663,7 +666,7 @@
     "spawindows480basefontsize": "12",
     "spawindowstabbasefontsize": "17",
     "splashlogokey": "",
-    "startupformkey": "",
+    "startupformkey": "g0ab537ea32c4561bf436da6c33ecc75",
     "statusBarHidden": "false",
     "statusBarStyle": "STATUS_BAR_STYLE_DEFAULT",
     "support32bit": "false",
