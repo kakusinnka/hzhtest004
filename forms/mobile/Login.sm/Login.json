@@ -40,7 +40,8 @@
     "children": [
         "FlexContainerBgImage",
         "FlexContainerBgShadow",
-        "FlexContainerLogin"
+        "FlexContainerLogin",
+        "ImageLogo"
     ],
     "containerweight": 100,
     "controllerInfo": {
