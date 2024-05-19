@@ -1,42 +1,57 @@
 
 # Auto-generated javascript: It's important to note that jssrc at the project root
+# 自动生成的 javascript：需要注意的是 jssrc 位于项目根目录
 # can be ignored, but resources/customlibs/jsSrc must NOT be ignored because it stores
+# 可以忽略，但 resources/customlibs/jsSrc 一定不能忽略，因为它存储
 # FFI binding code which can only be generated during development.
+# FFI(外部函数接口) 绑定代码只能在开发过程中生成。
 jssrc/
 !/resources/customlibs/jsSrc
 
 # Binaries Ex:*.apk,*.KAR,
+# 二进制文件
 binaries/
 
 # Other Visualizer auto-generated files.
+# 其他 Visualizer 自动生成的文件。
 middleware.properties
 modules/voltmx_sdk.js
 modules/VoltmxSyncLib.js
 
 # Auto-generated temporary internationalization files.
+# 自动生成的临时国际化文件。Internationalization (i18n) （国際化対応）
 resources/i18n/
 
 # Logs created by building from the command line.
+# 通过从命令行构建而创建的日志。
 velocity.log
 
 # intellisense file for external editors
+# 外部编辑器的智能感知文件
 .tern-project
 
 # Auto-generated test resource js files
+# 自动生成测试资源js文件
 testresources/Jasmine/\*.js
 
 # Below list of files are optionally commented to support Headless/CI build
+# 下面的文件列表可以选择添加注释以支持 Headless/CI 构建
 
 # Starting with Visualizer 7.3 the /sdkplugin.properties file has been moved to
 # `/resources/customlibs/sdkplugin.properties` and can be automatically re-created by Visualizer
-# during the build, provided that folder resources/customlibs exists. Consider adding a .gitkeep
+# during the build, provided that folder resources/customlibs exists. Consider adding a .gitkeep=
 # file in order to force it into source control.
+# 从 Visualizer 7.3 开始，/sdkplugin.properties 文件已移至“/resources/customlibs/sdkplugin.properties”，
+# 并且可以在构建过程中由 Visualizer 自动重新创建（前提是文件夹 resources/customlibs 存在）。
+# 考虑添加 .gitkeep 文件以强制其进入源代码管理。
 
 # resources/customlibs/sdkplugin.properties
 
 # The jar's and zip's under these directories can be ignored so long as
 # sdkplugin.properties (See above) is also ignored. The missing sdkplugin.properties will
 # trigger the regeneration of these jar's and zip's during the build.
+# 只要 sdkplugin.properties（见上文）也被忽略，这些目录下的 jar 和 zip 就可以被忽略。
+# 缺少的 sdkplugin.properties 将在构建过程中触发这些 jar 和 zip 的重新生成。
 # resources/customlibs/lib/android/
 # resources/customlibs/lib/tabrcandroid/
 # resources/customlibs/lib/iphone/
@@ -45,6 +60,7 @@ testresources/Jasmine/\*.js
 # resources/customlibs/lib/winphone10/
 
 # The missing sdkplugin.properties will regenerate below files
+# 丢失的 sdkplugin.properties 将重新生成以下文件
 # resources/customlibs/jsSrc/android/com/konylabs/ffi/N_KonyLogger.java
 # resources/customlibs/jsSrc/tabrcandroid/com/konylabs/ffi/N_KonyLogger.java
 # resources/customlibs/jsSrc/kiosk/KonyLogger.js
@@ -81,26 +97,32 @@ testresources/Jasmine/\*.js
 # resources/customlibs/jsXml/binarydata.xml
 
 # Visualizer headless build configuration files
+# Visualizer 无头构建配置文件
 # HeadlessBuild.properties
 # HeadlessBuild-Global.properties
 
 
 # Auxiliary files generated during a build to expose the widget ID's for testing.
+# 在构建过程中生成的辅助文件，用于公开小部件 ID 以进行测试。
 # resources/mobile/native/android/values/widgetids.xml
 # resources/tablet/native/androidtab/values/widgetids.xml
 
 # NPM dependencies folder which gets created for apps using the "Nitro" Cordova integration
 # when you choose NOT to use a globally installed Cordova SDK by unchecking
 # `Project Settings>Application>Cordova Settings>Use globally installed Cordova version`.
+# 当您通过取消选中“项目设置>应用程序>Cordova 设置>使用全局安装的 Cordova 版本”选择不使用全局安装的 Cordova SDK 时，
+# 会为使用“Nitro”Cordova 集成的应用程序创建 NPM 依赖项文件夹。
 # node_modules
 
 # When using the "Nitro" Cordova integration, the Cordova `plugins` and `platforms`
 # directories can be ignored as with any Cordova project.
+# 使用“Nitro”Cordova 集成时，与任何 Cordova 项目一样，可以忽略 Cordova `plugins` 和 `platforms` 目录。
 # cordovatemp
 # web/cordova/plugins
 # web/cordova/platforms
 
 # Every controller file is accompanied by an auto-generated controller actions file.
+# 每个控制器文件都附有一个自动生成的控制器操作文件。
 /controllers/**/*ControllerActions.js
 /userwidgets/**/modules/require/*ControllerActions.js
 
