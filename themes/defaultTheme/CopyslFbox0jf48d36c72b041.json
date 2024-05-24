@@ -9,10 +9,11 @@
   "background_gradient_top_color": "ff0091ff",
   "background_style": "vg",
   "bg_type": "two",
-  "border_color": "000000ff",
-  "border_style": "plain",
+  "border_color": "afc7b9ff",
+  "border_radius": 39,
+  "border_style": "custom",
   "border_type": 0,
-  "border_width": 0,
+  "border_width": 10,
   "desktopweb": {
     "font_name": "Helvetica"
   },
