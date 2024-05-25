@@ -106,6 +106,6 @@
   "winphone8": {
     "font_name": "None",
     "font_size": 188,
-    "isForked": false
+    "isForked": true
   }
 }

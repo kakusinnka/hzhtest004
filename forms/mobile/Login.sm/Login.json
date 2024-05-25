@@ -54,7 +54,7 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "iPhone14",
+    "device": "WinMob",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "Login",
@@ -108,7 +108,7 @@
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "iphone",
+    "platform": "winphone8",
     "prevDevice": "Pixel6",
     "prevPlatform": "android",
     "retaincontentalignment": false,
