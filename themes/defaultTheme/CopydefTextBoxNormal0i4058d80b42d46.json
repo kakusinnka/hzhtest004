@@ -43,6 +43,8 @@
     "isForked": false
   },
   "iphone": {
+    "background_color": "e34fe300",
+    "bg_type": "one",
     "border_width": 10,
     "font_name": "System",
     "font_size": 188,
