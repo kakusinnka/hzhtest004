@@ -23,7 +23,8 @@
     "desktop": [],
     "mobile": [
       "iphone",
-      "android"
+      "android",
+      "winphone8"
     ],
     "tablet": [],
     "watch": []
