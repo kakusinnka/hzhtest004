@@ -32,7 +32,9 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "MySegment"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
