@@ -1,5 +1,9 @@
 {
     "DNDConfig": null,
+    "_blur_": {
+        "enabled": true,
+        "value": 49
+    },
     "_height_": {
         "type": "string",
         "value": "220dp"
@@ -40,17 +44,28 @@
     "id": "FlexContainer0d36de85135184f",
     "info": null,
     "iscustomlayout": false,
+    "ismodalcontainer": true,
     "isvisible": true,
     "kuid": "i526bbeee6dc4745ae8d426545d32915",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "FlexContainerMain",
     "pf": "FormFlexContainerTest",
+    "responsiveconfig": {
+        "offset": {
+            "landscape": 0,
+            "portrait": 0
+        },
+        "span": {
+            "landscape": 6,
+            "portrait": 2
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
-    "snaptogrid": true,
+    "snaptogrid": false,
     "wType": "FlexContainer",
     "widgetalignment": 1,
     "zindex": 1

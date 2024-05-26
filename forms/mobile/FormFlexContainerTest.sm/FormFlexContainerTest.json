@@ -15,6 +15,11 @@
         0
     ],
     "_percent_": true,
+    "_pxMenuIndex": [
+        0,
+        1,
+        0
+    ],
     "_skin_": "sc307b13650d408580e3a139276a9b44",
     "_title_": null,
     "addWidgetsdone": false,
@@ -101,7 +106,7 @@
     "needappmenu": false,
     "paddinginpixel": false,
     "platform": "iphone",
-    "prevDevice": "iPhone14",
+    "prevDevice": "iPhone11Pro",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

@@ -1,5 +1,9 @@
 {
     "DNDConfig": null,
+    "_blur_": {
+        "enabled": true,
+        "value": 67
+    },
     "_height_": {
         "type": "string",
         "value": "90%"
@@ -49,22 +53,31 @@
     ],
     "clipbounds": true,
     "containerweight": 100,
+    "defaultunit": 1,
+    "enablehapticfeedback": true,
     "enablescrolling": true,
     "id": "FlexContainerMain",
     "info": null,
+    "iphone": {},
     "iscustomlayout": false,
+    "ismodalcontainer": true,
     "isvisible": true,
     "kuid": "e5139b99547d4384a71c4ec7d13852d6",
-    "layouttype": 3,
+    "layouttype": 5,
     "name": "kony.ui.FlexContainer",
     "parent": "FormFlexContainerTest",
     "pf": "FormFlexContainerTest",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
-    "snapgridsize": 10,
+    "snapgridsize": "25",
     "snaptogrid": true,
     "wType": "FlexContainer",
     "widgetalignment": 1,
+    "winphone8": {
+        "psp": {
+            "enableCache": false
+        }
+    },
     "zindex": 1
 }
