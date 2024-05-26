@@ -47,7 +47,7 @@
         "FlexContainer0e75f43a3558248",
         "FlexContainer0c4cf07190f134f"
     ],
-    "clipbounds": false,
+    "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
     "id": "FlexContainerMain",
