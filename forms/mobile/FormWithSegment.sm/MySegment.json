@@ -79,10 +79,11 @@
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainselection": false,
+    "rowTemplateId": "a14b450f3abf45b2bad18a5cc1219b9a",
     "rowcounter": 9,
     "rowfocusskin": "s86f8c44e3144b4c8e1b81de3a4bed60",
     "rowskin": "s29b7db423ac488f8c0b7dc1555e458e",
-    "rowtemplate": null,
+    "rowtemplate": "Flex0gbcb539fe7cf42",
     "screenlevelwidget": false,
     "seccounter": 0,
     "sectionheaderskin": "sd5059ce5c2b46d4a132a74479e93970",
@@ -91,7 +92,7 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": 0,
+    "selectedsectionindex": null,
     "selectionbehavior": "default",
     "separatorcolor": "aaaaaa00",
     "separatorrequired": true,
@@ -101,6 +102,8 @@
     "vizProps": {},
     "wType": "Segment",
     "widgetalignment": 5,
-    "widgetdatamap": {},
+    "widgetdatamap": {
+        "Flex0gbcb539fe7cf42": "Flex0gbcb539fe7cf42"
+    },
     "zindex": 1
 }
