@@ -53,11 +53,11 @@
     "pf": "FormFlexContainerTest",
     "responsiveconfig": {
         "offset": {
-            "landscape": 0,
+            "landscape": 1,
             "portrait": 0
         },
         "span": {
-            "landscape": 6,
+            "landscape": 1,
             "portrait": 2
         }
     },
