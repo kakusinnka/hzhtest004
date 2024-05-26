@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "90%"
+        "value": "220dp"
     },
     "_left_": {
         "type": "string",
@@ -22,42 +22,29 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sad24aa25365413cb8b1530c1f0a868a",
+    "_skin_": "s1f1a13f84f648259520441f4647ffb4",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "366dp"
     },
     "_width_": {
         "type": "string",
-        "value": "90%"
+        "value": "100%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
-    "centery": {
-        "type": "string",
-        "value": "50%"
-    },
-    "children": [
-        "FlexContainer0d36de85135184f",
-        "FlexContainer0e75f43a3558248",
-        "FlexContainer0c4cf07190f134f"
-    ],
+    "children": [],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "FlexContainerMain",
+    "id": "FlexContainer0c4cf07190f134f",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e5139b99547d4384a71c4ec7d13852d6",
-    "layouttype": 3,
+    "kuid": "c5a955456ca147de8fc05ba3d0eabab0",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "FormFlexContainerTest",
+    "parent": "FlexContainerMain",
     "pf": "FormFlexContainerTest",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
